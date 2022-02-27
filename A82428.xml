@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the adjournment of this present Parliament, from the six and twentieth of Iune 1657. unto the twentieth of Ianuary next ensuing. At the Parliament begun at Westminster the 17th day of September, an. Dom. 1656.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 2 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82428</idno>
+            <idno type="STC">Wing E1087</idno>
+            <idno type="STC">Thomason E1065_40</idno>
+            <idno type="STC">ESTC R36648</idno>
+            <idno type="EEBO-CITATION">99872457</idno>
+            <idno type="PROQUEST">99872457</idno>
+            <idno type="VID">169296</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169296)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1065[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the adjournment of this present Parliament, from the six and twentieth of Iune 1657. unto the twentieth of Ianuary next ensuing. At the Parliament begun at Westminster the 17th day of September, an. Dom. 1656.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Hen: Hills and John Field, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On A2r: last word in first line of text: 'the'; first word under initial: 'Matters'; last word in last full line of text: 're-'.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169296:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>AN ACT FOR THE ADJOURNMENT Of this preſent PARLIAMENT, FROM The Six and twentieth of <hi>Iune</hi> 1657. unto the Twentieth of <hi>Ianuary</hi> next enſuing</p>
+            <p>At the Parliament begun at <hi>Weſtminſter</hi> the 17<hi rend="sup">th</hi> day of <hi>September, An. Dom.</hi> 1656.</p>
+            <figure>
+               <figDesc>blazon of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by HEN: HILLS and JOHN FIELD, Printers to His Highneſs the Lord PROTECTOR. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:169296:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="1" facs="tcp:169296:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>AN ACT FOR THE ADJOURNMENT Of this preſent PARLIAMENT, FROM The Six and twentieth of <hi>June</hi> 1657. unto the Twen<g ref="char:EOLhyphen"/>tieth of <hi>January</hi> next enſuing.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Enacted by His Highneſs the Lord Protector and this preſent Parliament, and the Authority of the ſame, That this Parlia<g ref="char:EOLhyphen"/>ment, and all Bills, Cauſes and Matters now depending in Parliament unde<g ref="char:EOLhyphen"/>termined, ſhall be, from and after the Six and twentieth day of <hi>June,</hi> One thouſand ſix hundred fifty and ſeven, adjourned unto the Twentieth day of <hi>January</hi> then next enſuing; at which time all ſuch perſons as have been duly Elected and Returned to ſerve in this preſent Parliament, being qualified according to the Qualifications in the Humble Petition and Advice, and not diſabled thereby, are re<g ref="char:EOLhyphen"/>quired
+<pb n="2" facs="tcp:169296:3"/>
+               <!-- PDF PAGE 15 -->to give their Attendance accordingly: And the Speaker of the Parliament is hereby Authorized and Impowered to Adjourn the ſame accordingly.</p>
+            <p>Provided always, That if His Highneſs, with the Advice of His Council, ſhall finde it neceſſary for the Affairs of the Common<g ref="char:EOLhyphen"/>wealth, that the Parliament ſhall meet ſoon<g ref="char:EOLhyphen"/>er, and before the time hereby limitted and ap<g ref="char:EOLhyphen"/>pointed, That then His Highneſs by Pro<g ref="char:EOLhyphen"/>clamation declaring the ſame, the Sheriffs of the ſeveral and reſpertive Counties are to give notice thereof unto the ſeveral Members within their County; And all Members of this Parliament are Required and Enjoyned to Attend, and to meet at the time and place appointed by ſuch Proclamation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs the Lord PROTECTOR. 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
